@@ -4,7 +4,7 @@
 
  <br>
  <hr>
-  <h3 align='center'>Linguagens e Tecnologias que aprendi: </h3>
+  <h3 align='center'>Linguagens e Tecnologias que eu conheço: </h3>
  
   <p align="center">
   <a href="https://skillicons.dev">
