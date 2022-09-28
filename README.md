@@ -1,24 +1,33 @@
 - 👋  Meu nome e Matheus
 - 👀  Interessado em ser Dev full stack.
-- 🌱 Estudante Desenvolvimento Web na Trybe.
+- 🌱 Atualmente Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar através de muita prática, simulando o mercado de trabalho, e a aprender a trabalhar.
 
+ <br>
+ <hr>
+  <h3 align='center'>Linguagens e Tecnologias que aprendi: </h3>
+ 
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,jest" />
+  </a>
+  </p>
+ <hr>
+ <h3 align='center'>Estou aprendendo: </h3>
 
-
-<div align='center'>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,mysql,nodejs,express" />
+  </a>
+</p>
   
-### Estou Aprendendo:
-  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
- </div>
 <hr> 
+<br>
  <div align='center'>
 <a href="https://github.com/MatheusNF123">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusNf123&layout=compact&langs_count=7&theme=dracula"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MatheusNf123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
-  
-<hr> 
+ <hr> 
  
 <div align='center'>
   
