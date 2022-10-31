@@ -8,7 +8,7 @@
  
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,jest" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,jest,mysql,nodejs,express," />
   </a>
   </p>
  <hr>
@@ -16,7 +16,7 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,mysql,nodejs,express,ts" />
+    <img src="https://skillicons.dev/icons?i=docker,ts,mongodb" />
   </a>
 </p>
   
