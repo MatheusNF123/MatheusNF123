@@ -1,6 +1,16 @@
-- 👋  Meu nome e Matheus
-- 👀  Interessado em ser Dev full stack.
-- 🌱 Atualmente Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar através de muita prática, simulando o mercado de trabalho, e a aprender a trabalhar.
+
+ <div align='center'>
+
+![capa 14002](https://user-images.githubusercontent.com/99821267/199572957-16aa89a3-6beb-4a85-b854-f505f4474d63.png)
+
+</div>
+
+
+### Sobre
+
+- Olá me chamo Matheus Almeida Saporito, tenho 26 anos, e sou uma pessoa apaixonado pela área da tecnologia.
+- Interessado em ser Dev full stack.
+- Atualmente Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar através de muita prática.
 
  <br>
  <hr>
