@@ -1,7 +1,7 @@
 
  <div align='center'>
 
-![capa 14002](https://user-images.githubusercontent.com/99821267/199572957-16aa89a3-6beb-4a85-b854-f505f4474d63.png)
+![capa 14002 centro](https://user-images.githubusercontent.com/99821267/199598864-9747ccc1-8bd0-4d58-8393-048413c738f5.png)
 
 </div>
 
