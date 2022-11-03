@@ -17,7 +17,7 @@
   <h3 align='center'>Linguagens e Tecnologias que eu conheço: </h3>
  
   <p align="center">
-  <a href="https://skillicons.dev" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,jest,mysql,nodejs,express,redux" />
   </a>
   </p>
@@ -25,7 +25,7 @@
  <h3 align='center'>Estou aprendendo: </h3>
 
   <p align="center">
-  <a href="https://skillicons.dev" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker,ts,mongodb,styledcomponents" />
   </a>
 </p>
