@@ -44,7 +44,7 @@
 ### Contatos:
 <a href="https://www.linkedin.com/in/matheus-almeida-saporito-088450219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:matheus_cs.nf@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- <a href="https://portfolio-ebon-pi-10.vercel.app/" target="_blank"> <img src="https://user-images.githubusercontent.com/99821267/199720518-e5bdcaea-c16b-44ae-8656-f89f29f97e0f.png" width="100"></a>
+ <a href="https://portfolio-ebon-pi-10.vercel.app/" target="_blank" rel="noopener"> <img src="https://user-images.githubusercontent.com/99821267/199720518-e5bdcaea-c16b-44ae-8656-f89f29f97e0f.png" width="100"></a>
  </div>
  
 
