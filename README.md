@@ -8,7 +8,7 @@
 
 ### Sobre
 
-- Olá me chamo Matheus Almeida Saporito, tenho 26 anos, e sou uma pessoa apaixonado pela área da tecnologia.
+- Olá me chamo Matheus Almeida Saporito, tenho 26 anos, e sou uma pessoa apaixonada pela área da tecnologia.
 - Interessado em ser Dev full stack.
 - Atualmente Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar através de muita prática.
 
