@@ -16,7 +16,7 @@ Sou apaixonado por tecnologia e tenho experiência em suporte de TI, obtida atra
  
   <p align="center">
   <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,jest,mysql,nodejs,express,redux" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,react,bootstrap,jest,mysql,nodejs,express,sequelize,redux,ts,styledcomponents" />
   </a>
   </p>
  <hr>
@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia e tenho experiência em suporte de TI, obtida atra
 
   <p align="center">
   <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=docker,ts,mongodb,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=docker,mongodb,py,nextjs,materialui" />
   </a>
 </p>
   
