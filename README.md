@@ -8,9 +8,7 @@
 
 ### Sobre
 
-- Olá me chamo Matheus Almeida Saporito, tenho 26 anos, e sou uma pessoa apaixonada pela área da tecnologia.
-- Interessado em ser Dev full stack.
-- Atualmente Estudo Desenvolvimento Web na Trybe, uma escola que ensina a programar através de muita prática.
+Sou apaixonado por tecnologia e tenho experiência em suporte de TI, obtida através do curso TECH.JA da JA Brasil. Atualmente estou estudando Desenvolvimento Web na Trybe e tenho conhecimento em diversas tecnologias como JavaScript, HTML5, CSS3, React, Node.js, entre outras. Sou uma pessoa proativa, com boa capacidade de aprendizado e com foco em soluções.
 
  <br>
  <hr>
